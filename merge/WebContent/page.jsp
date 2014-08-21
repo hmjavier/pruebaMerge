@@ -20,9 +20,12 @@
 	
 	<div><h1>Otra linea de hjavo en </h1></div>
 	
-	<div><h1>Otra linea y borramos 2</h1></div>
+	<div><h1>Otra linea y borramos 2</h1></div>	
+		
+	<h2>Merge</h2>	
 	
-	<h2>Otra linea para merge</h2>
+	<div><h1>Otra linea y borramos 2 javo hjavo javo</h1></div>
+	<div><h1>Otra linea y borramos 2 javo hjavo javo ccccccccccccccccccccccccccccccccccccccc</h1></div>
 
 </body>
 </html>
