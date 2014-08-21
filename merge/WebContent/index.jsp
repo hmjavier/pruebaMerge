@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>Hola merge</h1>
+	
+	<h2>Otro merge</h2>
 </body>
 </html>
