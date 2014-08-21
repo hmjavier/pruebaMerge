@@ -13,6 +13,10 @@
 	<div><h1>New file javo</h1></div>
 	
 	<div><h1>Merge oscar</h1></div>
+	
+	<div><h1>Merge javo otro</h1></div>
+	
+	<div><h1>Otra linea</h1></div>
 
 </body>
 </html>
